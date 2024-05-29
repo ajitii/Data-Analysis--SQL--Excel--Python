@@ -4,7 +4,7 @@
 
 
 
-- [x] **SQL & Tableauclear
+- [x] **SQL & Tableau
 ** - 
   - Instagram Clone Data Analysis Project<br />
 ** **[Dashboard]( https://drive.google.com/file/d/1tEP60ZEkFdI1cEs3ujQXitXhlNtOgSQG/view?usp=share_link  )**<br />
